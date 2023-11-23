@@ -1,0 +1,11 @@
+La démographie est l'étude quantitative et qualitative des caractéristiques des populations et de leurs 
+dynamiques, à partir de thèmes tels que la natalité, la fécondité, la mortalité, la nuptialité 
+(ou conjugalité) et la migration.
+
+Le démographe analyse les variations de ces phénomènes dans le temps et dans l'espace, en fonction 
+des milieux socio-économiques et culturels.
+
+"HELLO NODE"
+
+Sur cette base la prospective démographique est en mesure d'établir différents scénarios d'évolution : 
+de type tendanciel, alternatif, de crise ou de ruptures, etc.
